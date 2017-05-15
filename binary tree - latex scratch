@@ -1,0 +1,47 @@
+\begin{frame}
+  \frametitle{Binary Tree}
+  \framesubtitle{Size}
+  \begin {block}{Size Algorithm}
+    \begin itemize
+      \item <+-> $\fn{size} = \[ \begin{cases}
+      0 & x\leq 0 \          \frac{100-x}{100} & 0\leq x\leq 100 \          0 & 100\leq x
+   \end{cases}
+\] $
+  \end {block}
+\end {frame}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\begin{frame}
+  \frametitle{Binary Tree}
+  \framesubtitle{Size of a Tree}
+
+  \begin{block}{asdf}
+  $\mathtt{size(r)} = \begin{cases}$
+  $0 \qquad &if\  r = null \\$
+  $\mathtt{size}(r's\ left\ child) + \mathtt{size}(r's\  right\ child) + 1 &otherwise$
+  $\end{cases}$
+  \end{block}
+\end{frame}
+
+\begin{frame}
+  \begin{center}
+    \multiinclude[+][format=pdf,start=1]{figs/binarytree-i}
+  \end{center}
+\end{frame}
