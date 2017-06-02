@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.4.19)  15 MAY 2017 15:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.4.19)  2 JUN 2017 09:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -832,7 +832,8 @@ LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 459.
 LaTeX Font Info:    Overwriting math alphabet `\mathsl' in version `bold'
 (Font)                  OT1/cmss/m/sl --> OT1/cmss/m/sl on input line 466.
-)) (./dllist-tmp.aux)
+))
+No file dllist-tmp.aux.
 \openout1 = `dllist-tmp.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
@@ -926,8 +927,6 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 12.
 LaTeX Info: Redefining \pageref on input line 12.
 LaTeX Info: Redefining \nameref on input line 12.
-
-(./dllist-tmp.out) (./dllist-tmp.out)
 \@outlinefile=\write5
 \openout5 = `dllist-tmp.out'.
 
@@ -1010,7 +1009,8 @@ Dictionary: translator-theorem-dictionary, Language: English
 )
 LaTeX Info: Redefining \includegraphics on input line 12.
 \c@lstlisting=\count170
- (./dllist-tmp.nav)
+
+No file dllist-tmp.nav.
 <by.pdf, id=20, 121.45375pt x 43.16125pt>
 File: by.pdf Graphic file (type pdf)
  <use by.pdf>
@@ -1024,432 +1024,432 @@ LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./by.pdf>]
-<figs/dllist-1.pdf, id=35, 411.39497pt x 192.10872pt>
+<figs/dllist-1.pdf, id=34, 411.39497pt x 192.10872pt>
 File: figs/dllist-1.pdf Graphic file (type pdf)
  <use figs/dllist-1.pdf>
 Package pdftex.def Info: figs/dllist-1.pdf used on input line 25.
 (pdftex.def)             Requested size: 411.39397pt x 192.10825pt.
 
-<figs/dllist-2.pdf, id=36, 411.39497pt x 192.10872pt>
+<figs/dllist-2.pdf, id=35, 411.39497pt x 192.10872pt>
 File: figs/dllist-2.pdf Graphic file (type pdf)
  <use figs/dllist-2.pdf>
 Package pdftex.def Info: figs/dllist-2.pdf used on input line 25.
 (pdftex.def)             Requested size: 411.39397pt x 192.10825pt.
 
-<figs/dllist-3.pdf, id=37, 411.39497pt x 192.10872pt>
+<figs/dllist-3.pdf, id=36, 411.39497pt x 192.10872pt>
 File: figs/dllist-3.pdf Graphic file (type pdf)
  <use figs/dllist-3.pdf>
 Package pdftex.def Info: figs/dllist-3.pdf used on input line 25.
 (pdftex.def)             Requested size: 411.39397pt x 192.10825pt.
 
-<figs/dllist-4.pdf, id=38, 411.39497pt x 192.10872pt>
+<figs/dllist-4.pdf, id=37, 411.39497pt x 192.10872pt>
 File: figs/dllist-4.pdf Graphic file (type pdf)
  <use figs/dllist-4.pdf>
 Package pdftex.def Info: figs/dllist-4.pdf used on input line 25.
 (pdftex.def)             Requested size: 411.39397pt x 192.10825pt.
 
-<figs/dllist-5.pdf, id=39, 411.39497pt x 192.10872pt>
+<figs/dllist-5.pdf, id=38, 411.39497pt x 192.10872pt>
 File: figs/dllist-5.pdf Graphic file (type pdf)
  <use figs/dllist-5.pdf>
 Package pdftex.def Info: figs/dllist-5.pdf used on input line 25.
 (pdftex.def)             Requested size: 411.39397pt x 192.10825pt.
 
-<figs/dllist-6.pdf, id=40, 411.39497pt x 192.10872pt>
+<figs/dllist-6.pdf, id=39, 411.39497pt x 192.10872pt>
 File: figs/dllist-6.pdf Graphic file (type pdf)
  <use figs/dllist-6.pdf>
 Package pdftex.def Info: figs/dllist-6.pdf used on input line 25.
 (pdftex.def)             Requested size: 411.39397pt x 192.10825pt.
 
-<figs/dllist-7.pdf, id=41, 411.39497pt x 192.10872pt>
+<figs/dllist-7.pdf, id=40, 411.39497pt x 192.10872pt>
 File: figs/dllist-7.pdf Graphic file (type pdf)
  <use figs/dllist-7.pdf>
 Package pdftex.def Info: figs/dllist-7.pdf used on input line 25.
 (pdftex.def)             Requested size: 411.39397pt x 192.10825pt.
 
-<figs/dllist-8.pdf, id=42, 411.39497pt x 192.10872pt>
+<figs/dllist-8.pdf, id=41, 411.39497pt x 192.10872pt>
 File: figs/dllist-8.pdf Graphic file (type pdf)
  <use figs/dllist-8.pdf>
 Package pdftex.def Info: figs/dllist-8.pdf used on input line 25.
 (pdftex.def)             Requested size: 411.39397pt x 192.10825pt.
 
-<figs/dllist-9.pdf, id=43, 411.39497pt x 192.10872pt>
+<figs/dllist-9.pdf, id=42, 411.39497pt x 192.10872pt>
 File: figs/dllist-9.pdf Graphic file (type pdf)
  <use figs/dllist-9.pdf>
 Package pdftex.def Info: figs/dllist-9.pdf used on input line 25.
 (pdftex.def)             Requested size: 411.39397pt x 192.10825pt.
 
-<figs/dllist-10.pdf, id=44, 411.39497pt x 192.10872pt>
+<figs/dllist-10.pdf, id=43, 411.39497pt x 192.10872pt>
 File: figs/dllist-10.pdf Graphic file (type pdf)
 
 <use figs/dllist-10.pdf>
 Package pdftex.def Info: figs/dllist-10.pdf used on input line 25.
 (pdftex.def)             Requested size: 411.39397pt x 192.10825pt.
 
-<figs/dllist-11.pdf, id=45, 411.39497pt x 192.10872pt>
+<figs/dllist-11.pdf, id=44, 411.39497pt x 192.10872pt>
 File: figs/dllist-11.pdf Graphic file (type pdf)
 
 <use figs/dllist-11.pdf>
 Package pdftex.def Info: figs/dllist-11.pdf used on input line 25.
 (pdftex.def)             Requested size: 411.39397pt x 192.10825pt.
 
-<figs/dllist-12.pdf, id=46, 411.39497pt x 192.10872pt>
+<figs/dllist-12.pdf, id=45, 411.39497pt x 192.10872pt>
 File: figs/dllist-12.pdf Graphic file (type pdf)
 
 <use figs/dllist-12.pdf>
 Package pdftex.def Info: figs/dllist-12.pdf used on input line 25.
 (pdftex.def)             Requested size: 411.39397pt x 192.10825pt.
 
-<figs/dllist-13.pdf, id=47, 411.39497pt x 192.10872pt>
+<figs/dllist-13.pdf, id=46, 411.39497pt x 192.10872pt>
 File: figs/dllist-13.pdf Graphic file (type pdf)
 
 <use figs/dllist-13.pdf>
 Package pdftex.def Info: figs/dllist-13.pdf used on input line 25.
 (pdftex.def)             Requested size: 411.39397pt x 192.10825pt.
 
-<figs/dllist-14.pdf, id=48, 411.39497pt x 192.10872pt>
+<figs/dllist-14.pdf, id=47, 411.39497pt x 192.10872pt>
 File: figs/dllist-14.pdf Graphic file (type pdf)
 
 <use figs/dllist-14.pdf>
 Package pdftex.def Info: figs/dllist-14.pdf used on input line 25.
 (pdftex.def)             Requested size: 411.39397pt x 192.10825pt.
 
-<figs/dllist-15.pdf, id=49, 411.39497pt x 192.10872pt>
+<figs/dllist-15.pdf, id=48, 411.39497pt x 192.10872pt>
 File: figs/dllist-15.pdf Graphic file (type pdf)
 
 <use figs/dllist-15.pdf>
 Package pdftex.def Info: figs/dllist-15.pdf used on input line 25.
 (pdftex.def)             Requested size: 411.39397pt x 192.10825pt.
 
-<figs/dllist-16.pdf, id=50, 411.39497pt x 192.10872pt>
+<figs/dllist-16.pdf, id=49, 411.39497pt x 192.10872pt>
 File: figs/dllist-16.pdf Graphic file (type pdf)
 
 <use figs/dllist-16.pdf>
 Package pdftex.def Info: figs/dllist-16.pdf used on input line 25.
 (pdftex.def)             Requested size: 411.39397pt x 192.10825pt.
 
-<figs/dllist-17.pdf, id=51, 411.39497pt x 192.10872pt>
+<figs/dllist-17.pdf, id=50, 411.39497pt x 192.10872pt>
 File: figs/dllist-17.pdf Graphic file (type pdf)
 
 <use figs/dllist-17.pdf>
 Package pdftex.def Info: figs/dllist-17.pdf used on input line 25.
 (pdftex.def)             Requested size: 411.39397pt x 192.10825pt.
 
-<figs/dllist-18.pdf, id=52, 411.39497pt x 192.10872pt>
+<figs/dllist-18.pdf, id=51, 411.39497pt x 192.10872pt>
 File: figs/dllist-18.pdf Graphic file (type pdf)
 
 <use figs/dllist-18.pdf>
 Package pdftex.def Info: figs/dllist-18.pdf used on input line 25.
 (pdftex.def)             Requested size: 411.39397pt x 192.10825pt.
 
-<figs/dllist-19.pdf, id=53, 411.39497pt x 192.10872pt>
+<figs/dllist-19.pdf, id=52, 411.39497pt x 192.10872pt>
 File: figs/dllist-19.pdf Graphic file (type pdf)
 
 <use figs/dllist-19.pdf>
 Package pdftex.def Info: figs/dllist-19.pdf used on input line 25.
 (pdftex.def)             Requested size: 411.39397pt x 192.10825pt.
 
-<figs/dllist-20.pdf, id=54, 411.39497pt x 192.10872pt>
+<figs/dllist-20.pdf, id=53, 411.39497pt x 192.10872pt>
 File: figs/dllist-20.pdf Graphic file (type pdf)
 
 <use figs/dllist-20.pdf>
 Package pdftex.def Info: figs/dllist-20.pdf used on input line 25.
 (pdftex.def)             Requested size: 411.39397pt x 192.10825pt.
 
-<figs/dllist-21.pdf, id=55, 411.39497pt x 192.10872pt>
+<figs/dllist-21.pdf, id=54, 411.39497pt x 192.10872pt>
 File: figs/dllist-21.pdf Graphic file (type pdf)
 
 <use figs/dllist-21.pdf>
 Package pdftex.def Info: figs/dllist-21.pdf used on input line 25.
 (pdftex.def)             Requested size: 411.39397pt x 192.10825pt.
 
-<figs/dllist-22.pdf, id=56, 411.39497pt x 192.10872pt>
+<figs/dllist-22.pdf, id=55, 411.39497pt x 192.10872pt>
 File: figs/dllist-22.pdf Graphic file (type pdf)
 
 <use figs/dllist-22.pdf>
 Package pdftex.def Info: figs/dllist-22.pdf used on input line 25.
 (pdftex.def)             Requested size: 411.39397pt x 192.10825pt.
 
-<figs/dllist-23.pdf, id=57, 411.39497pt x 192.10872pt>
+<figs/dllist-23.pdf, id=56, 411.39497pt x 192.10872pt>
 File: figs/dllist-23.pdf Graphic file (type pdf)
 
 <use figs/dllist-23.pdf>
 Package pdftex.def Info: figs/dllist-23.pdf used on input line 25.
 (pdftex.def)             Requested size: 411.39397pt x 192.10825pt.
 
-<figs/dllist-24.pdf, id=58, 411.39497pt x 192.10872pt>
+<figs/dllist-24.pdf, id=57, 411.39497pt x 192.10872pt>
 File: figs/dllist-24.pdf Graphic file (type pdf)
 
 <use figs/dllist-24.pdf>
 Package pdftex.def Info: figs/dllist-24.pdf used on input line 25.
 (pdftex.def)             Requested size: 411.39397pt x 192.10825pt.
 
-<figs/dllist-25.pdf, id=59, 411.39497pt x 192.10872pt>
+<figs/dllist-25.pdf, id=58, 411.39497pt x 192.10872pt>
 File: figs/dllist-25.pdf Graphic file (type pdf)
 
 <use figs/dllist-25.pdf>
 Package pdftex.def Info: figs/dllist-25.pdf used on input line 25.
 (pdftex.def)             Requested size: 411.39397pt x 192.10825pt.
 
-<figs/dllist-26.pdf, id=60, 411.39497pt x 192.10872pt>
+<figs/dllist-26.pdf, id=59, 411.39497pt x 192.10872pt>
 File: figs/dllist-26.pdf Graphic file (type pdf)
 
 <use figs/dllist-26.pdf>
 Package pdftex.def Info: figs/dllist-26.pdf used on input line 25.
 (pdftex.def)             Requested size: 411.39397pt x 192.10825pt.
 
-<figs/dllist-27.pdf, id=61, 411.39497pt x 192.10872pt>
+<figs/dllist-27.pdf, id=60, 411.39497pt x 192.10872pt>
 File: figs/dllist-27.pdf Graphic file (type pdf)
 
 <use figs/dllist-27.pdf>
 Package pdftex.def Info: figs/dllist-27.pdf used on input line 25.
 (pdftex.def)             Requested size: 411.39397pt x 192.10825pt.
 
-<figs/dllist-28.pdf, id=62, 411.39497pt x 192.10872pt>
+<figs/dllist-28.pdf, id=61, 411.39497pt x 192.10872pt>
 File: figs/dllist-28.pdf Graphic file (type pdf)
 
 <use figs/dllist-28.pdf>
 Package pdftex.def Info: figs/dllist-28.pdf used on input line 25.
 (pdftex.def)             Requested size: 411.39397pt x 192.10825pt.
 
-<figs/dllist-29.pdf, id=63, 411.39497pt x 192.10872pt>
+<figs/dllist-29.pdf, id=62, 411.39497pt x 192.10872pt>
 File: figs/dllist-29.pdf Graphic file (type pdf)
 
 <use figs/dllist-29.pdf>
 Package pdftex.def Info: figs/dllist-29.pdf used on input line 25.
 (pdftex.def)             Requested size: 411.39397pt x 192.10825pt.
 
-<figs/dllist-30.pdf, id=64, 411.39497pt x 192.10872pt>
+<figs/dllist-30.pdf, id=63, 411.39497pt x 192.10872pt>
 File: figs/dllist-30.pdf Graphic file (type pdf)
 
 <use figs/dllist-30.pdf>
 Package pdftex.def Info: figs/dllist-30.pdf used on input line 25.
 (pdftex.def)             Requested size: 411.39397pt x 192.10825pt.
 
-<figs/dllist-31.pdf, id=65, 411.39497pt x 192.10872pt>
+<figs/dllist-31.pdf, id=64, 411.39497pt x 192.10872pt>
 File: figs/dllist-31.pdf Graphic file (type pdf)
 
 <use figs/dllist-31.pdf>
 Package pdftex.def Info: figs/dllist-31.pdf used on input line 25.
 (pdftex.def)             Requested size: 411.39397pt x 192.10825pt.
 
-<figs/dllist-32.pdf, id=66, 411.39497pt x 192.10872pt>
+<figs/dllist-32.pdf, id=65, 411.39497pt x 192.10872pt>
 File: figs/dllist-32.pdf Graphic file (type pdf)
 
 <use figs/dllist-32.pdf>
 Package pdftex.def Info: figs/dllist-32.pdf used on input line 25.
 (pdftex.def)             Requested size: 411.39397pt x 192.10825pt.
 
-<figs/dllist-33.pdf, id=67, 411.39497pt x 192.10872pt>
+<figs/dllist-33.pdf, id=66, 411.39497pt x 192.10872pt>
 File: figs/dllist-33.pdf Graphic file (type pdf)
 
 <use figs/dllist-33.pdf>
 Package pdftex.def Info: figs/dllist-33.pdf used on input line 25.
 (pdftex.def)             Requested size: 411.39397pt x 192.10825pt.
 
-<figs/dllist-34.pdf, id=68, 411.39497pt x 192.10872pt>
+<figs/dllist-34.pdf, id=67, 411.39497pt x 192.10872pt>
 File: figs/dllist-34.pdf Graphic file (type pdf)
 
 <use figs/dllist-34.pdf>
 Package pdftex.def Info: figs/dllist-34.pdf used on input line 25.
 (pdftex.def)             Requested size: 411.39397pt x 192.10825pt.
 
-<figs/dllist-35.pdf, id=69, 411.39497pt x 192.10872pt>
+<figs/dllist-35.pdf, id=68, 411.39497pt x 192.10872pt>
 File: figs/dllist-35.pdf Graphic file (type pdf)
 
 <use figs/dllist-35.pdf>
 Package pdftex.def Info: figs/dllist-35.pdf used on input line 25.
 (pdftex.def)             Requested size: 411.39397pt x 192.10825pt.
 
-<figs/dllist-36.pdf, id=70, 411.39497pt x 192.10872pt>
+<figs/dllist-36.pdf, id=69, 411.39497pt x 192.10872pt>
 File: figs/dllist-36.pdf Graphic file (type pdf)
 
 <use figs/dllist-36.pdf>
 Package pdftex.def Info: figs/dllist-36.pdf used on input line 25.
 (pdftex.def)             Requested size: 411.39397pt x 192.10825pt.
 
-<figs/dllist-37.pdf, id=71, 411.39497pt x 192.10872pt>
+<figs/dllist-37.pdf, id=70, 411.39497pt x 192.10872pt>
 File: figs/dllist-37.pdf Graphic file (type pdf)
 
 <use figs/dllist-37.pdf>
 Package pdftex.def Info: figs/dllist-37.pdf used on input line 25.
 (pdftex.def)             Requested size: 411.39397pt x 192.10825pt.
 
-<figs/dllist-38.pdf, id=72, 411.39497pt x 192.10872pt>
+<figs/dllist-38.pdf, id=71, 411.39497pt x 192.10872pt>
 File: figs/dllist-38.pdf Graphic file (type pdf)
 
 <use figs/dllist-38.pdf>
 Package pdftex.def Info: figs/dllist-38.pdf used on input line 25.
 (pdftex.def)             Requested size: 411.39397pt x 192.10825pt.
 
-<figs/dllist-39.pdf, id=73, 411.39497pt x 192.10872pt>
+<figs/dllist-39.pdf, id=72, 411.39497pt x 192.10872pt>
 File: figs/dllist-39.pdf Graphic file (type pdf)
 
 <use figs/dllist-39.pdf>
 Package pdftex.def Info: figs/dllist-39.pdf used on input line 25.
 (pdftex.def)             Requested size: 411.39397pt x 192.10825pt.
 
-<figs/dllist-40.pdf, id=74, 411.39497pt x 192.10872pt>
+<figs/dllist-40.pdf, id=73, 411.39497pt x 192.10872pt>
 File: figs/dllist-40.pdf Graphic file (type pdf)
 
 <use figs/dllist-40.pdf>
 Package pdftex.def Info: figs/dllist-40.pdf used on input line 25.
 (pdftex.def)             Requested size: 411.39397pt x 192.10825pt.
 
-<figs/dllist-41.pdf, id=75, 411.39497pt x 192.10872pt>
+<figs/dllist-41.pdf, id=74, 411.39497pt x 192.10872pt>
 File: figs/dllist-41.pdf Graphic file (type pdf)
 
 <use figs/dllist-41.pdf>
 Package pdftex.def Info: figs/dllist-41.pdf used on input line 25.
 (pdftex.def)             Requested size: 411.39397pt x 192.10825pt.
 
-<figs/dllist-42.pdf, id=76, 411.39497pt x 192.10872pt>
+<figs/dllist-42.pdf, id=75, 411.39497pt x 192.10872pt>
 File: figs/dllist-42.pdf Graphic file (type pdf)
 
 <use figs/dllist-42.pdf>
 Package pdftex.def Info: figs/dllist-42.pdf used on input line 25.
 (pdftex.def)             Requested size: 411.39397pt x 192.10825pt.
 
-<figs/dllist-43.pdf, id=77, 411.39497pt x 192.10872pt>
+<figs/dllist-43.pdf, id=76, 411.39497pt x 192.10872pt>
 File: figs/dllist-43.pdf Graphic file (type pdf)
 
 <use figs/dllist-43.pdf>
 Package pdftex.def Info: figs/dllist-43.pdf used on input line 25.
 (pdftex.def)             Requested size: 411.39397pt x 192.10825pt.
 
-<figs/dllist-44.pdf, id=78, 411.39497pt x 192.10872pt>
+<figs/dllist-44.pdf, id=77, 411.39497pt x 192.10872pt>
 File: figs/dllist-44.pdf Graphic file (type pdf)
 
 <use figs/dllist-44.pdf>
 Package pdftex.def Info: figs/dllist-44.pdf used on input line 25.
 (pdftex.def)             Requested size: 411.39397pt x 192.10825pt.
 
-<figs/dllist-45.pdf, id=79, 411.39497pt x 192.10872pt>
+<figs/dllist-45.pdf, id=78, 411.39497pt x 192.10872pt>
 File: figs/dllist-45.pdf Graphic file (type pdf)
 
 <use figs/dllist-45.pdf>
 Package pdftex.def Info: figs/dllist-45.pdf used on input line 25.
 (pdftex.def)             Requested size: 411.39397pt x 192.10825pt.
 
-<figs/dllist-46.pdf, id=80, 411.39497pt x 192.10872pt>
+<figs/dllist-46.pdf, id=79, 411.39497pt x 192.10872pt>
 File: figs/dllist-46.pdf Graphic file (type pdf)
 
 <use figs/dllist-46.pdf>
 Package pdftex.def Info: figs/dllist-46.pdf used on input line 25.
 (pdftex.def)             Requested size: 411.39397pt x 192.10825pt.
 
-<figs/dllist-47.pdf, id=81, 411.39497pt x 192.10872pt>
+<figs/dllist-47.pdf, id=80, 411.39497pt x 192.10872pt>
 File: figs/dllist-47.pdf Graphic file (type pdf)
 
 <use figs/dllist-47.pdf>
 Package pdftex.def Info: figs/dllist-47.pdf used on input line 25.
 (pdftex.def)             Requested size: 411.39397pt x 192.10825pt.
 
-<figs/dllist-48.pdf, id=82, 411.39497pt x 192.10872pt>
+<figs/dllist-48.pdf, id=81, 411.39497pt x 192.10872pt>
 File: figs/dllist-48.pdf Graphic file (type pdf)
 
 <use figs/dllist-48.pdf>
 Package pdftex.def Info: figs/dllist-48.pdf used on input line 25.
 (pdftex.def)             Requested size: 411.39397pt x 192.10825pt.
 
-<figs/dllist-49.pdf, id=83, 411.39497pt x 192.10872pt>
+<figs/dllist-49.pdf, id=82, 411.39497pt x 192.10872pt>
 File: figs/dllist-49.pdf Graphic file (type pdf)
 
 <use figs/dllist-49.pdf>
 Package pdftex.def Info: figs/dllist-49.pdf used on input line 25.
 (pdftex.def)             Requested size: 411.39397pt x 192.10825pt.
 
-<figs/dllist-50.pdf, id=84, 411.39497pt x 192.10872pt>
+<figs/dllist-50.pdf, id=83, 411.39497pt x 192.10872pt>
 File: figs/dllist-50.pdf Graphic file (type pdf)
 
 <use figs/dllist-50.pdf>
 Package pdftex.def Info: figs/dllist-50.pdf used on input line 25.
 (pdftex.def)             Requested size: 411.39397pt x 192.10825pt.
 
-<figs/dllist-51.pdf, id=85, 411.39497pt x 192.10872pt>
+<figs/dllist-51.pdf, id=84, 411.39497pt x 192.10872pt>
 File: figs/dllist-51.pdf Graphic file (type pdf)
 
 <use figs/dllist-51.pdf>
 Package pdftex.def Info: figs/dllist-51.pdf used on input line 25.
 (pdftex.def)             Requested size: 411.39397pt x 192.10825pt.
 
-<figs/dllist-52.pdf, id=86, 411.39497pt x 192.10872pt>
+<figs/dllist-52.pdf, id=85, 411.39497pt x 192.10872pt>
 File: figs/dllist-52.pdf Graphic file (type pdf)
 
 <use figs/dllist-52.pdf>
 Package pdftex.def Info: figs/dllist-52.pdf used on input line 25.
 (pdftex.def)             Requested size: 411.39397pt x 192.10825pt.
 
-<figs/dllist-53.pdf, id=87, 411.39497pt x 192.10872pt>
+<figs/dllist-53.pdf, id=86, 411.39497pt x 192.10872pt>
 File: figs/dllist-53.pdf Graphic file (type pdf)
 
 <use figs/dllist-53.pdf>
 Package pdftex.def Info: figs/dllist-53.pdf used on input line 25.
 (pdftex.def)             Requested size: 411.39397pt x 192.10825pt.
 
-<figs/dllist-54.pdf, id=88, 411.39497pt x 192.10872pt>
+<figs/dllist-54.pdf, id=87, 411.39497pt x 192.10872pt>
 File: figs/dllist-54.pdf Graphic file (type pdf)
 
 <use figs/dllist-54.pdf>
 Package pdftex.def Info: figs/dllist-54.pdf used on input line 25.
 (pdftex.def)             Requested size: 411.39397pt x 192.10825pt.
 
-<figs/dllist-55.pdf, id=89, 411.39497pt x 192.10872pt>
+<figs/dllist-55.pdf, id=88, 411.39497pt x 192.10872pt>
 File: figs/dllist-55.pdf Graphic file (type pdf)
 
 <use figs/dllist-55.pdf>
 Package pdftex.def Info: figs/dllist-55.pdf used on input line 25.
 (pdftex.def)             Requested size: 411.39397pt x 192.10825pt.
 
-<figs/dllist-56.pdf, id=90, 411.39497pt x 192.10872pt>
+<figs/dllist-56.pdf, id=89, 411.39497pt x 192.10872pt>
 File: figs/dllist-56.pdf Graphic file (type pdf)
 
 <use figs/dllist-56.pdf>
 Package pdftex.def Info: figs/dllist-56.pdf used on input line 25.
 (pdftex.def)             Requested size: 411.39397pt x 192.10825pt.
 
-<figs/dllist-57.pdf, id=91, 411.39497pt x 192.10872pt>
+<figs/dllist-57.pdf, id=90, 411.39497pt x 192.10872pt>
 File: figs/dllist-57.pdf Graphic file (type pdf)
 
 <use figs/dllist-57.pdf>
 Package pdftex.def Info: figs/dllist-57.pdf used on input line 25.
 (pdftex.def)             Requested size: 411.39397pt x 192.10825pt.
 
-<figs/dllist-58.pdf, id=92, 411.39497pt x 192.10872pt>
+<figs/dllist-58.pdf, id=91, 411.39497pt x 192.10872pt>
 File: figs/dllist-58.pdf Graphic file (type pdf)
 
 <use figs/dllist-58.pdf>
 Package pdftex.def Info: figs/dllist-58.pdf used on input line 25.
 (pdftex.def)             Requested size: 411.39397pt x 192.10825pt.
 
-<figs/dllist-59.pdf, id=93, 411.39497pt x 192.10872pt>
+<figs/dllist-59.pdf, id=92, 411.39497pt x 192.10872pt>
 File: figs/dllist-59.pdf Graphic file (type pdf)
 
 <use figs/dllist-59.pdf>
 Package pdftex.def Info: figs/dllist-59.pdf used on input line 25.
 (pdftex.def)             Requested size: 411.39397pt x 192.10825pt.
 
-<figs/dllist-60.pdf, id=94, 411.39497pt x 192.10872pt>
+<figs/dllist-60.pdf, id=93, 411.39497pt x 192.10872pt>
 File: figs/dllist-60.pdf Graphic file (type pdf)
 
 <use figs/dllist-60.pdf>
 Package pdftex.def Info: figs/dllist-60.pdf used on input line 25.
 (pdftex.def)             Requested size: 411.39397pt x 192.10825pt.
 
-<figs/dllist-61.pdf, id=95, 411.39497pt x 192.10872pt>
+<figs/dllist-61.pdf, id=94, 411.39497pt x 192.10872pt>
 File: figs/dllist-61.pdf Graphic file (type pdf)
 
 <use figs/dllist-61.pdf>
 Package pdftex.def Info: figs/dllist-61.pdf used on input line 25.
 (pdftex.def)             Requested size: 411.39397pt x 192.10825pt.
 
-<figs/dllist-62.pdf, id=96, 411.39497pt x 192.10872pt>
+<figs/dllist-62.pdf, id=95, 411.39497pt x 192.10872pt>
 File: figs/dllist-62.pdf Graphic file (type pdf)
 
 <use figs/dllist-62.pdf>
 Package pdftex.def Info: figs/dllist-62.pdf used on input line 25.
 (pdftex.def)             Requested size: 411.39397pt x 192.10825pt.
 
-<figs/dllist-63.pdf, id=97, 411.39497pt x 192.10872pt>
+<figs/dllist-63.pdf, id=96, 411.39497pt x 192.10872pt>
 File: figs/dllist-63.pdf Graphic file (type pdf)
 
 <use figs/dllist-63.pdf>
@@ -18818,9 +18818,15 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 46.
  (./dllist-tmp.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 46.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 46.
-Package rerunfilecheck Info: File `dllist-tmp.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
+
+Package rerunfilecheck Warning: File `dllist-tmp.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `dllist-tmp.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
@@ -18828,10 +18834,10 @@ LaTeX Font Warning: Size substitutions with differences
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 46.
  ) 
 Here is how much of TeX's memory you used:
- 18700 strings out of 493029
- 353483 string characters out of 6136234
+ 18679 strings out of 493029
+ 353268 string characters out of 6136234
  451029 words of memory out of 5000000
- 21596 multiletter control sequences out of 15000+600000
+ 21583 multiletter control sequences out of 15000+600000
  10723 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,16n,60p,407b,901s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -18841,7 +18847,7 @@ e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dis
 t/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on dllist-tmp.pdf (68 pages, 6181619 bytes).
+Output written on dllist-tmp.pdf (68 pages, 6181625 bytes).
 PDF statistics:
  6636 PDF objects out of 7423 (max. 8388607)
  1991 compressed objects within 20 object streams

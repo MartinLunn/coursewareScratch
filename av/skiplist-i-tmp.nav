@@ -3,10 +3,12 @@
 \headcommand {\beamer@framepages {1}{1}}
 \headcommand {\slideentry {0}{0}{2}{2/87}{}{0}}
 \headcommand {\beamer@framepages {2}{87}}
-\headcommand {\slideentry {0}{0}{3}{88/88}{}{0}}
-\headcommand {\beamer@framepages {88}{88}}
-\headcommand {\beamer@partpages {1}{88}}
-\headcommand {\beamer@subsectionpages {1}{88}}
-\headcommand {\beamer@sectionpages {1}{88}}
-\headcommand {\beamer@documentpages {88}}
-\headcommand {\def \inserttotalframenumber {3}}
+\headcommand {\slideentry {0}{0}{3}{88/125}{}{0}}
+\headcommand {\beamer@framepages {88}{125}}
+\headcommand {\slideentry {0}{0}{4}{126/126}{}{0}}
+\headcommand {\beamer@framepages {126}{126}}
+\headcommand {\beamer@partpages {1}{126}}
+\headcommand {\beamer@subsectionpages {1}{126}}
+\headcommand {\beamer@sectionpages {1}{126}}
+\headcommand {\beamer@documentpages {126}}
+\headcommand {\def \inserttotalframenumber {4}}

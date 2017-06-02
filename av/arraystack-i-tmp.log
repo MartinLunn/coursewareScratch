@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.4.19)  15 MAY 2017 15:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.4.19)  2 JUN 2017 09:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -833,7 +833,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 LaTeX Font Info:    Overwriting math alphabet `\mathsl' in version `bold'
 (Font)                  OT1/cmss/m/sl --> OT1/cmss/m/sl on input line 466.
 ))
-(./arraystack-i-tmp.aux)
+No file arraystack-i-tmp.aux.
 \openout1 = `arraystack-i-tmp.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
@@ -850,7 +850,6 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
-
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -928,8 +927,6 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 12.
 LaTeX Info: Redefining \pageref on input line 12.
 LaTeX Info: Redefining \nameref on input line 12.
-
-(./arraystack-i-tmp.out) (./arraystack-i-tmp.out)
 \@outlinefile=\write5
 \openout5 = `arraystack-i-tmp.out'.
 
@@ -1013,10 +1010,10 @@ Dictionary: translator-theorem-dictionary, Language: English
 LaTeX Info: Redefining \includegraphics on input line 12.
 \c@lstlisting=\count170
 
-(./arraystack-i-tmp.nav) <by.pdf, id=20, 121.45375pt x 43.16125pt>
+No file arraystack-i-tmp.nav.
+<by.pdf, id=20, 121.45375pt x 43.16125pt>
 File: by.pdf Graphic file (type pdf)
-
-<use by.pdf>
+ <use by.pdf>
 Package pdftex.def Info: by.pdf used on input line 16.
 (pdftex.def)             Requested size: 30.81183pt x 10.95003pt.
 
@@ -1027,518 +1024,518 @@ LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./by.pdf>]
-<figs/arraystack-1.pdf, id=35, 306.34451pt x 96.20642pt>
+<figs/arraystack-1.pdf, id=34, 306.34451pt x 96.20642pt>
 File: figs/arraystack-1.pdf Graphic file (type pdf)
 
 <use figs/arraystack-1.pdf>
 Package pdftex.def Info: figs/arraystack-1.pdf used on input line 24.
 (pdftex.def)             Requested size: 306.34375pt x 96.20618pt.
 
-<figs/arraystack-2.pdf, id=36, 306.34451pt x 96.20642pt>
+<figs/arraystack-2.pdf, id=35, 306.34451pt x 96.20642pt>
 File: figs/arraystack-2.pdf Graphic file (type pdf)
 
 <use figs/arraystack-2.pdf>
 Package pdftex.def Info: figs/arraystack-2.pdf used on input line 24.
 (pdftex.def)             Requested size: 306.34375pt x 96.20618pt.
 
-<figs/arraystack-3.pdf, id=37, 306.34451pt x 96.20642pt>
+<figs/arraystack-3.pdf, id=36, 306.34451pt x 96.20642pt>
 File: figs/arraystack-3.pdf Graphic file (type pdf)
 
 <use figs/arraystack-3.pdf>
 Package pdftex.def Info: figs/arraystack-3.pdf used on input line 24.
 (pdftex.def)             Requested size: 306.34375pt x 96.20618pt.
 
-<figs/arraystack-4.pdf, id=38, 306.34451pt x 96.20642pt>
+<figs/arraystack-4.pdf, id=37, 306.34451pt x 96.20642pt>
 File: figs/arraystack-4.pdf Graphic file (type pdf)
 
 <use figs/arraystack-4.pdf>
 Package pdftex.def Info: figs/arraystack-4.pdf used on input line 24.
 (pdftex.def)             Requested size: 306.34375pt x 96.20618pt.
 
-<figs/arraystack-5.pdf, id=39, 306.34451pt x 96.20642pt>
+<figs/arraystack-5.pdf, id=38, 306.34451pt x 96.20642pt>
 File: figs/arraystack-5.pdf Graphic file (type pdf)
 
 <use figs/arraystack-5.pdf>
 Package pdftex.def Info: figs/arraystack-5.pdf used on input line 24.
 (pdftex.def)             Requested size: 306.34375pt x 96.20618pt.
 
-<figs/arraystack-6.pdf, id=40, 306.34451pt x 96.20642pt>
+<figs/arraystack-6.pdf, id=39, 306.34451pt x 96.20642pt>
 File: figs/arraystack-6.pdf Graphic file (type pdf)
 
 <use figs/arraystack-6.pdf>
 Package pdftex.def Info: figs/arraystack-6.pdf used on input line 24.
 (pdftex.def)             Requested size: 306.34375pt x 96.20618pt.
 
-<figs/arraystack-7.pdf, id=41, 306.34451pt x 96.20642pt>
+<figs/arraystack-7.pdf, id=40, 306.34451pt x 96.20642pt>
 File: figs/arraystack-7.pdf Graphic file (type pdf)
 
 <use figs/arraystack-7.pdf>
 Package pdftex.def Info: figs/arraystack-7.pdf used on input line 24.
 (pdftex.def)             Requested size: 306.34375pt x 96.20618pt.
 
-<figs/arraystack-8.pdf, id=42, 306.34451pt x 96.20642pt>
+<figs/arraystack-8.pdf, id=41, 306.34451pt x 96.20642pt>
 File: figs/arraystack-8.pdf Graphic file (type pdf)
 
 <use figs/arraystack-8.pdf>
 Package pdftex.def Info: figs/arraystack-8.pdf used on input line 24.
 (pdftex.def)             Requested size: 306.34375pt x 96.20618pt.
 
-<figs/arraystack-9.pdf, id=43, 306.34451pt x 96.20642pt>
+<figs/arraystack-9.pdf, id=42, 306.34451pt x 96.20642pt>
 File: figs/arraystack-9.pdf Graphic file (type pdf)
 
 <use figs/arraystack-9.pdf>
 Package pdftex.def Info: figs/arraystack-9.pdf used on input line 24.
 (pdftex.def)             Requested size: 306.34375pt x 96.20618pt.
 
-<figs/arraystack-10.pdf, id=44, 306.34451pt x 96.20642pt>
+<figs/arraystack-10.pdf, id=43, 306.34451pt x 96.20642pt>
 File: figs/arraystack-10.pdf Graphic file (type pdf)
 
 <use figs/arraystack-10.pdf>
 Package pdftex.def Info: figs/arraystack-10.pdf used on input line 24.
 (pdftex.def)             Requested size: 306.34375pt x 96.20618pt.
 
-<figs/arraystack-11.pdf, id=45, 306.34451pt x 96.20642pt>
+<figs/arraystack-11.pdf, id=44, 306.34451pt x 96.20642pt>
 File: figs/arraystack-11.pdf Graphic file (type pdf)
 
 <use figs/arraystack-11.pdf>
 Package pdftex.def Info: figs/arraystack-11.pdf used on input line 24.
 (pdftex.def)             Requested size: 306.34375pt x 96.20618pt.
 
-<figs/arraystack-12.pdf, id=46, 306.34451pt x 96.20642pt>
+<figs/arraystack-12.pdf, id=45, 306.34451pt x 96.20642pt>
 File: figs/arraystack-12.pdf Graphic file (type pdf)
 
 <use figs/arraystack-12.pdf>
 Package pdftex.def Info: figs/arraystack-12.pdf used on input line 24.
 (pdftex.def)             Requested size: 306.34375pt x 96.20618pt.
 
-<figs/arraystack-13.pdf, id=47, 306.34451pt x 96.20642pt>
+<figs/arraystack-13.pdf, id=46, 306.34451pt x 96.20642pt>
 File: figs/arraystack-13.pdf Graphic file (type pdf)
 
 <use figs/arraystack-13.pdf>
 Package pdftex.def Info: figs/arraystack-13.pdf used on input line 24.
 (pdftex.def)             Requested size: 306.34375pt x 96.20618pt.
 
-<figs/arraystack-14.pdf, id=48, 306.34451pt x 96.20642pt>
+<figs/arraystack-14.pdf, id=47, 306.34451pt x 96.20642pt>
 File: figs/arraystack-14.pdf Graphic file (type pdf)
 
 <use figs/arraystack-14.pdf>
 Package pdftex.def Info: figs/arraystack-14.pdf used on input line 24.
 (pdftex.def)             Requested size: 306.34375pt x 96.20618pt.
 
-<figs/arraystack-15.pdf, id=49, 306.34451pt x 96.20642pt>
+<figs/arraystack-15.pdf, id=48, 306.34451pt x 96.20642pt>
 File: figs/arraystack-15.pdf Graphic file (type pdf)
 
 <use figs/arraystack-15.pdf>
 Package pdftex.def Info: figs/arraystack-15.pdf used on input line 24.
 (pdftex.def)             Requested size: 306.34375pt x 96.20618pt.
 
-<figs/arraystack-16.pdf, id=50, 306.34451pt x 96.20642pt>
+<figs/arraystack-16.pdf, id=49, 306.34451pt x 96.20642pt>
 File: figs/arraystack-16.pdf Graphic file (type pdf)
 
 <use figs/arraystack-16.pdf>
 Package pdftex.def Info: figs/arraystack-16.pdf used on input line 24.
 (pdftex.def)             Requested size: 306.34375pt x 96.20618pt.
 
-<figs/arraystack-17.pdf, id=51, 306.34451pt x 96.20642pt>
+<figs/arraystack-17.pdf, id=50, 306.34451pt x 96.20642pt>
 File: figs/arraystack-17.pdf Graphic file (type pdf)
 
 <use figs/arraystack-17.pdf>
 Package pdftex.def Info: figs/arraystack-17.pdf used on input line 24.
 (pdftex.def)             Requested size: 306.34375pt x 96.20618pt.
 
-<figs/arraystack-18.pdf, id=52, 306.34451pt x 96.20642pt>
+<figs/arraystack-18.pdf, id=51, 306.34451pt x 96.20642pt>
 File: figs/arraystack-18.pdf Graphic file (type pdf)
 
 <use figs/arraystack-18.pdf>
 Package pdftex.def Info: figs/arraystack-18.pdf used on input line 24.
 (pdftex.def)             Requested size: 306.34375pt x 96.20618pt.
 
-<figs/arraystack-19.pdf, id=53, 306.34451pt x 96.20642pt>
+<figs/arraystack-19.pdf, id=52, 306.34451pt x 96.20642pt>
 File: figs/arraystack-19.pdf Graphic file (type pdf)
 
 <use figs/arraystack-19.pdf>
 Package pdftex.def Info: figs/arraystack-19.pdf used on input line 24.
 (pdftex.def)             Requested size: 306.34375pt x 96.20618pt.
 
-<figs/arraystack-20.pdf, id=54, 306.34451pt x 96.20642pt>
+<figs/arraystack-20.pdf, id=53, 306.34451pt x 96.20642pt>
 File: figs/arraystack-20.pdf Graphic file (type pdf)
 
 <use figs/arraystack-20.pdf>
 Package pdftex.def Info: figs/arraystack-20.pdf used on input line 24.
 (pdftex.def)             Requested size: 306.34375pt x 96.20618pt.
 
-<figs/arraystack-21.pdf, id=55, 306.34451pt x 96.20642pt>
+<figs/arraystack-21.pdf, id=54, 306.34451pt x 96.20642pt>
 File: figs/arraystack-21.pdf Graphic file (type pdf)
 
 <use figs/arraystack-21.pdf>
 Package pdftex.def Info: figs/arraystack-21.pdf used on input line 24.
 (pdftex.def)             Requested size: 306.34375pt x 96.20618pt.
 
-<figs/arraystack-22.pdf, id=56, 306.34451pt x 96.20642pt>
+<figs/arraystack-22.pdf, id=55, 306.34451pt x 96.20642pt>
 File: figs/arraystack-22.pdf Graphic file (type pdf)
 
 <use figs/arraystack-22.pdf>
 Package pdftex.def Info: figs/arraystack-22.pdf used on input line 24.
 (pdftex.def)             Requested size: 306.34375pt x 96.20618pt.
 
-<figs/arraystack-23.pdf, id=57, 306.34451pt x 96.20642pt>
+<figs/arraystack-23.pdf, id=56, 306.34451pt x 96.20642pt>
 File: figs/arraystack-23.pdf Graphic file (type pdf)
 
 <use figs/arraystack-23.pdf>
 Package pdftex.def Info: figs/arraystack-23.pdf used on input line 24.
 (pdftex.def)             Requested size: 306.34375pt x 96.20618pt.
 
-<figs/arraystack-24.pdf, id=58, 306.34451pt x 96.20642pt>
+<figs/arraystack-24.pdf, id=57, 306.34451pt x 96.20642pt>
 File: figs/arraystack-24.pdf Graphic file (type pdf)
 
 <use figs/arraystack-24.pdf>
 Package pdftex.def Info: figs/arraystack-24.pdf used on input line 24.
 (pdftex.def)             Requested size: 306.34375pt x 96.20618pt.
 
-<figs/arraystack-25.pdf, id=59, 306.34451pt x 96.20642pt>
+<figs/arraystack-25.pdf, id=58, 306.34451pt x 96.20642pt>
 File: figs/arraystack-25.pdf Graphic file (type pdf)
 
 <use figs/arraystack-25.pdf>
 Package pdftex.def Info: figs/arraystack-25.pdf used on input line 24.
 (pdftex.def)             Requested size: 306.34375pt x 96.20618pt.
 
-<figs/arraystack-26.pdf, id=60, 306.34451pt x 96.20642pt>
+<figs/arraystack-26.pdf, id=59, 306.34451pt x 96.20642pt>
 File: figs/arraystack-26.pdf Graphic file (type pdf)
 
 <use figs/arraystack-26.pdf>
 Package pdftex.def Info: figs/arraystack-26.pdf used on input line 24.
 (pdftex.def)             Requested size: 306.34375pt x 96.20618pt.
 
-<figs/arraystack-27.pdf, id=61, 306.34451pt x 96.20642pt>
+<figs/arraystack-27.pdf, id=60, 306.34451pt x 96.20642pt>
 File: figs/arraystack-27.pdf Graphic file (type pdf)
 
 <use figs/arraystack-27.pdf>
 Package pdftex.def Info: figs/arraystack-27.pdf used on input line 24.
 (pdftex.def)             Requested size: 306.34375pt x 96.20618pt.
 
-<figs/arraystack-28.pdf, id=62, 306.34451pt x 96.20642pt>
+<figs/arraystack-28.pdf, id=61, 306.34451pt x 96.20642pt>
 File: figs/arraystack-28.pdf Graphic file (type pdf)
 
 <use figs/arraystack-28.pdf>
 Package pdftex.def Info: figs/arraystack-28.pdf used on input line 24.
 (pdftex.def)             Requested size: 306.34375pt x 96.20618pt.
 
-<figs/arraystack-29.pdf, id=63, 306.34451pt x 96.20642pt>
+<figs/arraystack-29.pdf, id=62, 306.34451pt x 96.20642pt>
 File: figs/arraystack-29.pdf Graphic file (type pdf)
 
 <use figs/arraystack-29.pdf>
 Package pdftex.def Info: figs/arraystack-29.pdf used on input line 24.
 (pdftex.def)             Requested size: 306.34375pt x 96.20618pt.
 
-<figs/arraystack-30.pdf, id=64, 306.34451pt x 96.20642pt>
+<figs/arraystack-30.pdf, id=63, 306.34451pt x 96.20642pt>
 File: figs/arraystack-30.pdf Graphic file (type pdf)
 
 <use figs/arraystack-30.pdf>
 Package pdftex.def Info: figs/arraystack-30.pdf used on input line 24.
 (pdftex.def)             Requested size: 306.34375pt x 96.20618pt.
 
-<figs/arraystack-31.pdf, id=65, 306.34451pt x 96.20642pt>
+<figs/arraystack-31.pdf, id=64, 306.34451pt x 96.20642pt>
 File: figs/arraystack-31.pdf Graphic file (type pdf)
 
 <use figs/arraystack-31.pdf>
 Package pdftex.def Info: figs/arraystack-31.pdf used on input line 24.
 (pdftex.def)             Requested size: 306.34375pt x 96.20618pt.
 
-<figs/arraystack-32.pdf, id=66, 306.34451pt x 96.20642pt>
+<figs/arraystack-32.pdf, id=65, 306.34451pt x 96.20642pt>
 File: figs/arraystack-32.pdf Graphic file (type pdf)
 
 <use figs/arraystack-32.pdf>
 Package pdftex.def Info: figs/arraystack-32.pdf used on input line 24.
 (pdftex.def)             Requested size: 306.34375pt x 96.20618pt.
 
-<figs/arraystack-33.pdf, id=67, 306.34451pt x 96.20642pt>
+<figs/arraystack-33.pdf, id=66, 306.34451pt x 96.20642pt>
 File: figs/arraystack-33.pdf Graphic file (type pdf)
 
 <use figs/arraystack-33.pdf>
 Package pdftex.def Info: figs/arraystack-33.pdf used on input line 24.
 (pdftex.def)             Requested size: 306.34375pt x 96.20618pt.
 
-<figs/arraystack-34.pdf, id=68, 306.34451pt x 96.20642pt>
+<figs/arraystack-34.pdf, id=67, 306.34451pt x 96.20642pt>
 File: figs/arraystack-34.pdf Graphic file (type pdf)
 
 <use figs/arraystack-34.pdf>
 Package pdftex.def Info: figs/arraystack-34.pdf used on input line 24.
 (pdftex.def)             Requested size: 306.34375pt x 96.20618pt.
 
-<figs/arraystack-35.pdf, id=69, 306.34451pt x 96.20642pt>
+<figs/arraystack-35.pdf, id=68, 306.34451pt x 96.20642pt>
 File: figs/arraystack-35.pdf Graphic file (type pdf)
 
 <use figs/arraystack-35.pdf>
 Package pdftex.def Info: figs/arraystack-35.pdf used on input line 24.
 (pdftex.def)             Requested size: 306.34375pt x 96.20618pt.
 
-<figs/arraystack-36.pdf, id=70, 306.34451pt x 96.20642pt>
+<figs/arraystack-36.pdf, id=69, 306.34451pt x 96.20642pt>
 File: figs/arraystack-36.pdf Graphic file (type pdf)
 
 <use figs/arraystack-36.pdf>
 Package pdftex.def Info: figs/arraystack-36.pdf used on input line 24.
 (pdftex.def)             Requested size: 306.34375pt x 96.20618pt.
 
-<figs/arraystack-37.pdf, id=71, 306.34451pt x 96.20642pt>
+<figs/arraystack-37.pdf, id=70, 306.34451pt x 96.20642pt>
 File: figs/arraystack-37.pdf Graphic file (type pdf)
 
 <use figs/arraystack-37.pdf>
 Package pdftex.def Info: figs/arraystack-37.pdf used on input line 24.
 (pdftex.def)             Requested size: 306.34375pt x 96.20618pt.
 
-<figs/arraystack-38.pdf, id=72, 306.34451pt x 96.20642pt>
+<figs/arraystack-38.pdf, id=71, 306.34451pt x 96.20642pt>
 File: figs/arraystack-38.pdf Graphic file (type pdf)
 
 <use figs/arraystack-38.pdf>
 Package pdftex.def Info: figs/arraystack-38.pdf used on input line 24.
 (pdftex.def)             Requested size: 306.34375pt x 96.20618pt.
 
-<figs/arraystack-39.pdf, id=73, 306.34451pt x 96.20642pt>
+<figs/arraystack-39.pdf, id=72, 306.34451pt x 96.20642pt>
 File: figs/arraystack-39.pdf Graphic file (type pdf)
 
 <use figs/arraystack-39.pdf>
 Package pdftex.def Info: figs/arraystack-39.pdf used on input line 24.
 (pdftex.def)             Requested size: 306.34375pt x 96.20618pt.
 
-<figs/arraystack-40.pdf, id=74, 306.34451pt x 96.20642pt>
+<figs/arraystack-40.pdf, id=73, 306.34451pt x 96.20642pt>
 File: figs/arraystack-40.pdf Graphic file (type pdf)
 
 <use figs/arraystack-40.pdf>
 Package pdftex.def Info: figs/arraystack-40.pdf used on input line 24.
 (pdftex.def)             Requested size: 306.34375pt x 96.20618pt.
 
-<figs/arraystack-41.pdf, id=75, 306.34451pt x 96.20642pt>
+<figs/arraystack-41.pdf, id=74, 306.34451pt x 96.20642pt>
 File: figs/arraystack-41.pdf Graphic file (type pdf)
 
 <use figs/arraystack-41.pdf>
 Package pdftex.def Info: figs/arraystack-41.pdf used on input line 24.
 (pdftex.def)             Requested size: 306.34375pt x 96.20618pt.
 
-<figs/arraystack-42.pdf, id=76, 306.34451pt x 96.20642pt>
+<figs/arraystack-42.pdf, id=75, 306.34451pt x 96.20642pt>
 File: figs/arraystack-42.pdf Graphic file (type pdf)
 
 <use figs/arraystack-42.pdf>
 Package pdftex.def Info: figs/arraystack-42.pdf used on input line 24.
 (pdftex.def)             Requested size: 306.34375pt x 96.20618pt.
 
-<figs/arraystack-43.pdf, id=77, 306.34451pt x 96.20642pt>
+<figs/arraystack-43.pdf, id=76, 306.34451pt x 96.20642pt>
 File: figs/arraystack-43.pdf Graphic file (type pdf)
 
 <use figs/arraystack-43.pdf>
 Package pdftex.def Info: figs/arraystack-43.pdf used on input line 24.
 (pdftex.def)             Requested size: 306.34375pt x 96.20618pt.
 
-<figs/arraystack-44.pdf, id=78, 306.34451pt x 96.20642pt>
+<figs/arraystack-44.pdf, id=77, 306.34451pt x 96.20642pt>
 File: figs/arraystack-44.pdf Graphic file (type pdf)
 
 <use figs/arraystack-44.pdf>
 Package pdftex.def Info: figs/arraystack-44.pdf used on input line 24.
 (pdftex.def)             Requested size: 306.34375pt x 96.20618pt.
 
-<figs/arraystack-45.pdf, id=79, 306.34451pt x 96.20642pt>
+<figs/arraystack-45.pdf, id=78, 306.34451pt x 96.20642pt>
 File: figs/arraystack-45.pdf Graphic file (type pdf)
 
 <use figs/arraystack-45.pdf>
 Package pdftex.def Info: figs/arraystack-45.pdf used on input line 24.
 (pdftex.def)             Requested size: 306.34375pt x 96.20618pt.
 
-<figs/arraystack-46.pdf, id=80, 306.34451pt x 96.20642pt>
+<figs/arraystack-46.pdf, id=79, 306.34451pt x 96.20642pt>
 File: figs/arraystack-46.pdf Graphic file (type pdf)
 
 <use figs/arraystack-46.pdf>
 Package pdftex.def Info: figs/arraystack-46.pdf used on input line 24.
 (pdftex.def)             Requested size: 306.34375pt x 96.20618pt.
 
-<figs/arraystack-47.pdf, id=81, 306.34451pt x 96.20642pt>
+<figs/arraystack-47.pdf, id=80, 306.34451pt x 96.20642pt>
 File: figs/arraystack-47.pdf Graphic file (type pdf)
 
 <use figs/arraystack-47.pdf>
 Package pdftex.def Info: figs/arraystack-47.pdf used on input line 24.
 (pdftex.def)             Requested size: 306.34375pt x 96.20618pt.
 
-<figs/arraystack-48.pdf, id=82, 306.34451pt x 96.20642pt>
+<figs/arraystack-48.pdf, id=81, 306.34451pt x 96.20642pt>
 File: figs/arraystack-48.pdf Graphic file (type pdf)
 
 <use figs/arraystack-48.pdf>
 Package pdftex.def Info: figs/arraystack-48.pdf used on input line 24.
 (pdftex.def)             Requested size: 306.34375pt x 96.20618pt.
 
-<figs/arraystack-49.pdf, id=83, 306.34451pt x 96.20642pt>
+<figs/arraystack-49.pdf, id=82, 306.34451pt x 96.20642pt>
 File: figs/arraystack-49.pdf Graphic file (type pdf)
 
 <use figs/arraystack-49.pdf>
 Package pdftex.def Info: figs/arraystack-49.pdf used on input line 24.
 (pdftex.def)             Requested size: 306.34375pt x 96.20618pt.
 
-<figs/arraystack-50.pdf, id=84, 306.34451pt x 96.20642pt>
+<figs/arraystack-50.pdf, id=83, 306.34451pt x 96.20642pt>
 File: figs/arraystack-50.pdf Graphic file (type pdf)
 
 <use figs/arraystack-50.pdf>
 Package pdftex.def Info: figs/arraystack-50.pdf used on input line 24.
 (pdftex.def)             Requested size: 306.34375pt x 96.20618pt.
 
-<figs/arraystack-51.pdf, id=85, 306.34451pt x 96.20642pt>
+<figs/arraystack-51.pdf, id=84, 306.34451pt x 96.20642pt>
 File: figs/arraystack-51.pdf Graphic file (type pdf)
 
 <use figs/arraystack-51.pdf>
 Package pdftex.def Info: figs/arraystack-51.pdf used on input line 24.
 (pdftex.def)             Requested size: 306.34375pt x 96.20618pt.
 
-<figs/arraystack-52.pdf, id=86, 306.34451pt x 96.20642pt>
+<figs/arraystack-52.pdf, id=85, 306.34451pt x 96.20642pt>
 File: figs/arraystack-52.pdf Graphic file (type pdf)
 
 <use figs/arraystack-52.pdf>
 Package pdftex.def Info: figs/arraystack-52.pdf used on input line 24.
 (pdftex.def)             Requested size: 306.34375pt x 96.20618pt.
 
-<figs/arraystack-53.pdf, id=87, 306.34451pt x 96.20642pt>
+<figs/arraystack-53.pdf, id=86, 306.34451pt x 96.20642pt>
 File: figs/arraystack-53.pdf Graphic file (type pdf)
 
 <use figs/arraystack-53.pdf>
 Package pdftex.def Info: figs/arraystack-53.pdf used on input line 24.
 (pdftex.def)             Requested size: 306.34375pt x 96.20618pt.
 
-<figs/arraystack-54.pdf, id=88, 306.34451pt x 96.20642pt>
+<figs/arraystack-54.pdf, id=87, 306.34451pt x 96.20642pt>
 File: figs/arraystack-54.pdf Graphic file (type pdf)
 
 <use figs/arraystack-54.pdf>
 Package pdftex.def Info: figs/arraystack-54.pdf used on input line 24.
 (pdftex.def)             Requested size: 306.34375pt x 96.20618pt.
 
-<figs/arraystack-55.pdf, id=89, 306.34451pt x 96.20642pt>
+<figs/arraystack-55.pdf, id=88, 306.34451pt x 96.20642pt>
 File: figs/arraystack-55.pdf Graphic file (type pdf)
 
 <use figs/arraystack-55.pdf>
 Package pdftex.def Info: figs/arraystack-55.pdf used on input line 24.
 (pdftex.def)             Requested size: 306.34375pt x 96.20618pt.
 
-<figs/arraystack-56.pdf, id=90, 306.34451pt x 96.20642pt>
+<figs/arraystack-56.pdf, id=89, 306.34451pt x 96.20642pt>
 File: figs/arraystack-56.pdf Graphic file (type pdf)
 
 <use figs/arraystack-56.pdf>
 Package pdftex.def Info: figs/arraystack-56.pdf used on input line 24.
 (pdftex.def)             Requested size: 306.34375pt x 96.20618pt.
 
-<figs/arraystack-57.pdf, id=91, 306.34451pt x 96.20642pt>
+<figs/arraystack-57.pdf, id=90, 306.34451pt x 96.20642pt>
 File: figs/arraystack-57.pdf Graphic file (type pdf)
 
 <use figs/arraystack-57.pdf>
 Package pdftex.def Info: figs/arraystack-57.pdf used on input line 24.
 (pdftex.def)             Requested size: 306.34375pt x 96.20618pt.
 
-<figs/arraystack-58.pdf, id=92, 306.34451pt x 96.20642pt>
+<figs/arraystack-58.pdf, id=91, 306.34451pt x 96.20642pt>
 File: figs/arraystack-58.pdf Graphic file (type pdf)
 
 <use figs/arraystack-58.pdf>
 Package pdftex.def Info: figs/arraystack-58.pdf used on input line 24.
 (pdftex.def)             Requested size: 306.34375pt x 96.20618pt.
 
-<figs/arraystack-59.pdf, id=93, 306.34451pt x 96.20642pt>
+<figs/arraystack-59.pdf, id=92, 306.34451pt x 96.20642pt>
 File: figs/arraystack-59.pdf Graphic file (type pdf)
 
 <use figs/arraystack-59.pdf>
 Package pdftex.def Info: figs/arraystack-59.pdf used on input line 24.
 (pdftex.def)             Requested size: 306.34375pt x 96.20618pt.
 
-<figs/arraystack-60.pdf, id=94, 306.34451pt x 96.20642pt>
+<figs/arraystack-60.pdf, id=93, 306.34451pt x 96.20642pt>
 File: figs/arraystack-60.pdf Graphic file (type pdf)
 
 <use figs/arraystack-60.pdf>
 Package pdftex.def Info: figs/arraystack-60.pdf used on input line 24.
 (pdftex.def)             Requested size: 306.34375pt x 96.20618pt.
 
-<figs/arraystack-61.pdf, id=95, 306.34451pt x 96.20642pt>
+<figs/arraystack-61.pdf, id=94, 306.34451pt x 96.20642pt>
 File: figs/arraystack-61.pdf Graphic file (type pdf)
 
 <use figs/arraystack-61.pdf>
 Package pdftex.def Info: figs/arraystack-61.pdf used on input line 24.
 (pdftex.def)             Requested size: 306.34375pt x 96.20618pt.
 
-<figs/arraystack-62.pdf, id=96, 306.34451pt x 96.20642pt>
+<figs/arraystack-62.pdf, id=95, 306.34451pt x 96.20642pt>
 File: figs/arraystack-62.pdf Graphic file (type pdf)
 
 <use figs/arraystack-62.pdf>
 Package pdftex.def Info: figs/arraystack-62.pdf used on input line 24.
 (pdftex.def)             Requested size: 306.34375pt x 96.20618pt.
 
-<figs/arraystack-63.pdf, id=97, 306.34451pt x 96.20642pt>
+<figs/arraystack-63.pdf, id=96, 306.34451pt x 96.20642pt>
 File: figs/arraystack-63.pdf Graphic file (type pdf)
 
 <use figs/arraystack-63.pdf>
 Package pdftex.def Info: figs/arraystack-63.pdf used on input line 24.
 (pdftex.def)             Requested size: 306.34375pt x 96.20618pt.
 
-<figs/arraystack-64.pdf, id=98, 306.34451pt x 96.20642pt>
+<figs/arraystack-64.pdf, id=97, 306.34451pt x 96.20642pt>
 File: figs/arraystack-64.pdf Graphic file (type pdf)
 
 <use figs/arraystack-64.pdf>
 Package pdftex.def Info: figs/arraystack-64.pdf used on input line 24.
 (pdftex.def)             Requested size: 306.34375pt x 96.20618pt.
 
-<figs/arraystack-65.pdf, id=99, 306.34451pt x 96.20642pt>
+<figs/arraystack-65.pdf, id=98, 306.34451pt x 96.20642pt>
 File: figs/arraystack-65.pdf Graphic file (type pdf)
 
 <use figs/arraystack-65.pdf>
 Package pdftex.def Info: figs/arraystack-65.pdf used on input line 24.
 (pdftex.def)             Requested size: 306.34375pt x 96.20618pt.
 
-<figs/arraystack-66.pdf, id=100, 306.34451pt x 96.20642pt>
+<figs/arraystack-66.pdf, id=99, 306.34451pt x 96.20642pt>
 File: figs/arraystack-66.pdf Graphic file (type pdf)
 
 <use figs/arraystack-66.pdf>
 Package pdftex.def Info: figs/arraystack-66.pdf used on input line 24.
 (pdftex.def)             Requested size: 306.34375pt x 96.20618pt.
 
-<figs/arraystack-67.pdf, id=101, 306.34451pt x 96.20642pt>
+<figs/arraystack-67.pdf, id=100, 306.34451pt x 96.20642pt>
 File: figs/arraystack-67.pdf Graphic file (type pdf)
 
 <use figs/arraystack-67.pdf>
 Package pdftex.def Info: figs/arraystack-67.pdf used on input line 24.
 (pdftex.def)             Requested size: 306.34375pt x 96.20618pt.
 
-<figs/arraystack-68.pdf, id=102, 306.34451pt x 96.20642pt>
+<figs/arraystack-68.pdf, id=101, 306.34451pt x 96.20642pt>
 File: figs/arraystack-68.pdf Graphic file (type pdf)
 
 <use figs/arraystack-68.pdf>
 Package pdftex.def Info: figs/arraystack-68.pdf used on input line 24.
 (pdftex.def)             Requested size: 306.34375pt x 96.20618pt.
 
-<figs/arraystack-69.pdf, id=103, 306.34451pt x 96.20642pt>
+<figs/arraystack-69.pdf, id=102, 306.34451pt x 96.20642pt>
 File: figs/arraystack-69.pdf Graphic file (type pdf)
 
 <use figs/arraystack-69.pdf>
 Package pdftex.def Info: figs/arraystack-69.pdf used on input line 24.
 (pdftex.def)             Requested size: 306.34375pt x 96.20618pt.
 
-<figs/arraystack-70.pdf, id=104, 306.34451pt x 96.20642pt>
+<figs/arraystack-70.pdf, id=103, 306.34451pt x 96.20642pt>
 File: figs/arraystack-70.pdf Graphic file (type pdf)
 
 <use figs/arraystack-70.pdf>
 Package pdftex.def Info: figs/arraystack-70.pdf used on input line 24.
 (pdftex.def)             Requested size: 306.34375pt x 96.20618pt.
 
-<figs/arraystack-71.pdf, id=105, 306.34451pt x 96.20642pt>
+<figs/arraystack-71.pdf, id=104, 306.34451pt x 96.20642pt>
 File: figs/arraystack-71.pdf Graphic file (type pdf)
 
 <use figs/arraystack-71.pdf>
 Package pdftex.def Info: figs/arraystack-71.pdf used on input line 24.
 (pdftex.def)             Requested size: 306.34375pt x 96.20618pt.
 
-<figs/arraystack-72.pdf, id=106, 306.34451pt x 96.20642pt>
+<figs/arraystack-72.pdf, id=105, 306.34451pt x 96.20642pt>
 File: figs/arraystack-72.pdf Graphic file (type pdf)
 
 <use figs/arraystack-72.pdf>
 Package pdftex.def Info: figs/arraystack-72.pdf used on input line 24.
 (pdftex.def)             Requested size: 306.34375pt x 96.20618pt.
 
-<figs/arraystack-73.pdf, id=107, 306.34451pt x 96.20642pt>
+<figs/arraystack-73.pdf, id=106, 306.34451pt x 96.20642pt>
 File: figs/arraystack-73.pdf Graphic file (type pdf)
 
 <use figs/arraystack-73.pdf>
 Package pdftex.def Info: figs/arraystack-73.pdf used on input line 24.
 (pdftex.def)             Requested size: 306.34375pt x 96.20618pt.
 
-<figs/arraystack-74.pdf, id=108, 306.34451pt x 96.20642pt>
+<figs/arraystack-74.pdf, id=107, 306.34451pt x 96.20642pt>
 File: figs/arraystack-74.pdf Graphic file (type pdf)
 
 <use figs/arraystack-74.pdf>
@@ -26148,9 +26145,15 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 52.
  (./arraystack-i-tmp.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 52.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 52.
-Package rerunfilecheck Info: File `arraystack-i-tmp.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
+
+Package rerunfilecheck Warning: File `arraystack-i-tmp.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `arraystack-i-tmp.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
@@ -26158,10 +26161,10 @@ LaTeX Font Warning: Size substitutions with differences
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 52.
  ) 
 Here is how much of TeX's memory you used:
- 18812 strings out of 493029
- 356860 string characters out of 6136234
- 455420 words of memory out of 5000000
- 21662 multiletter control sequences out of 15000+600000
+ 18791 strings out of 493029
+ 356597 string characters out of 6136234
+ 455307 words of memory out of 5000000
+ 21649 multiletter control sequences out of 15000+600000
  16719 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,16n,60p,413b,904s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -26171,7 +26174,7 @@ e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dis
 t/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on arraystack-i-tmp.pdf (83 pages, 12834375 bytes).
+Output written on arraystack-i-tmp.pdf (83 pages, 12834332 bytes).
 PDF statistics:
  29629 PDF objects out of 31911 (max. 8388607)
  1684 compressed objects within 17 object streams
